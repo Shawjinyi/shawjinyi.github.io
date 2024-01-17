@@ -10,6 +10,8 @@ redirect_from:
 
 👨‍🎓i'm a Doctoral researcher in Social science at the Univeristy of Helsinki, specialized in Social and public policy, my research is focued on the interplay betwenn population ageing, labour market changes, retirement. currenty i am interested in exploring questions related to the impact of labor market changes on retirement, including th effect of massive layoffs, the evolution of retirement policies within the context of labour market transformations.
 
+Stay tuned👈
+🎉News🎉
 
 
 A data-driven personal website
