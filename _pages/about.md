@@ -14,6 +14,8 @@ redirect_from:
 🎉News🎉
 ======
 Stay tuned👈
+# New recruitment
+[participation website](https://academicpages.github.io/posts/2012/08/blog-post-4/)
 
 A data-driven personal website
 ======
