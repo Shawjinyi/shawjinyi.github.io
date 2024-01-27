@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2014-2019: P
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -28,12 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Qualitative interview techniques
+* Data Analysis
+  * SPSS
+  * R
+  * Atlas.ti
+* Project Management
 
 Publications
 ======
