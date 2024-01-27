@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, University of liverpool, 2021
+* MiM, University of liverpool, 2021
 * Ph.D in Social Science, University of Helsinki, 2025 (expected)
 
 Work experience
