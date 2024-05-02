@@ -17,8 +17,7 @@ I hold an M.Sc in Management from the University of Liverpool, where my research
 
 🐉2024
 ======
-PLEASE JOIN US IN THIS PROJECT!!👇👇🏻👇🏼👇🏽👇🏾👇🏿
-![POSTER](/images/AR2_recruitment flyer_页面_1.png)
+
 
 🐇2023
 ======
