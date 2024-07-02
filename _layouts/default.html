@@ -31,20 +31,3 @@ layout: compress
 </html>
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-</head>
-<body>
-    {% include toggle.html %}
-
-    {{ content }}
-
-    <script src="{{ "/assets/js/toggle.js" | relative_url }}"></script>
-</body>
-</html>
