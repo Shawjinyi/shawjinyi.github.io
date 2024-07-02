@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 **I'm a doctoral researcher in the field of social and public policy at the University of Helsinki, Focusing on comparative social welfare regimes and social policy simulation**
+
+👨‍🎓 I'm a doctoral researcher in the field of social and public policy at the University of Helsinki, Focusing on comparative social welfare regimes and social policy simulation
 
 
 
