@@ -1,1 +1,21 @@
+/* 默认是白天模式 */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* 夜晚模式 */
+body.night-mode {
+    background-color: black;
+    color: white;
+}
+
+/* 切换按钮样式 */
+#mode-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
 
